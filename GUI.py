@@ -77,10 +77,10 @@ canvas.pack()
 #frame.pack()
 
 #goal
-for i in range(10):
+for i in range(50):
+    reset_dots()
     init_dots()
     time.sleep(0.001)
     move_dots()
     time.sleep(0.25)
-    reset_dots()
 window.mainloop()

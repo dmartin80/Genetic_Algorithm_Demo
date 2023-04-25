@@ -2,7 +2,7 @@ import Dot
 import random
 import copy
 
-num_dots = 400
+num_dots = 300
 dot_list = []
 fitness_sum = 0
 gen = 1

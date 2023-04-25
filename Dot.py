@@ -41,5 +41,6 @@ class dot:
   
   def set_best_dot(self):
     self.color = "green1"
+    self.dot_rad = 4
     
 
